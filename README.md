@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <link rel="stylesheet" href="styles/style.css"/>
+  <title>Hello, World!</title>
+</head>
+<body>
+  <header>
+    <h1>Prince Portfolio</h1>
+    <nav>
+      <a href="about">About</a>
+      <a href="course">My Course</a>
+      <a href="https://github.com" target="_blank">GitHub (new tab)</a>
+    </nav>
+  </header>  
+  <main>
+    <section id="about">
+      <h2>About me</h2>
+      <img src="IMG-20260910-WA0014.jpg" alt= "taking mirror photo in gym">
+      <p>I am student of Btech CSE AI fist year. <br> Loves to learn different things. </p>
+    </section>
+    <section id="course">
+      <h2>My course</h2>
+      <ul>
+        <li>Subject</li>
+        <ol>
+          <li>Mern</li>
+          <li>Java</li>
+          <li>Java script</li>
+        </ol>
+        <li>Tools:VS Code,Git</li>
+      </ul>
+    </section>
+  </main>
+  <aside>
+ <h3>Quick Facts</h3>
+ <dl>
+ <dt>Hobby</dt><dd>Playing games</dd>
+<dd>Reading books</dd><dd>Singing</dd>
+ </dl>
+ </aside>
+ <footer>
+ <p>Made by Prince Gupta</p>
+ </footer>
+</body>
+</html>
